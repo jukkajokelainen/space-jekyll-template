@@ -13,3 +13,14 @@ layout: compress
         {% include scripts.html %}
     </body>
 </html>
+
+
+to leave the file in the repo but ignore future changes to it:
+
+git update-index --assume-unchanged <file>
+and to undo this:
+
+git update-index --no-assume-unchanged <file>
+to find out which files have been set this way:
+
+git ls-files -v|grep '^h'
