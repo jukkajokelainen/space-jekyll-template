@@ -4,6 +4,7 @@ description: "We Pop Up!"
 baseurl: "/wepopup" # for test: remove string '/space-jekyll-template' to ''
 url: "https://jukkajokelainen.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
+
 username: jukkajokelainen 
 user_title: developer
 email: jukka.jokelainen@gmail.com
