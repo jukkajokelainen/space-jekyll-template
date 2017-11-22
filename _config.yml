@@ -1,14 +1,14 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: We Pop Up!
+description: "We Pop Up!"
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "https://jukkajokelainen.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
+username: jukkajokelainen 
+user_title: developer
+email: jukka.jokelainen@gmail.com
+twitter_username: falarier  
+github_username:  jukkajokelainen
 gplus_username:  loremipsum
 linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: loremipsum
