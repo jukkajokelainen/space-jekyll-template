@@ -10,7 +10,10 @@ layout: compress
                 <h1>We Pop Up!</h1>
             </div>
             <div class="section">
-                <div class="image-background" style="background-image: url('{{ "/assets/img/play-stone.jpg" | absolute_url }}');">
+
+                    
+
+                <div class="image-background" style="background-image: url('{{ "/assets/img/play-stone.jpg" | prepend: site.baseurl | prepend: site.url }}');">
                     <h1>Ympäristö jossa ihmiset ja harrastukset kohtaavat</h1>
                     <p class="infront">
                             WE POP UP hanke on jatkoa Pro Lapinlahti mielenterveysseura ry:n pitkälle vapaaehtoistyön ja tapahtumien perinteelle Lapinlahdessa. Hanke tarjoaa mahdollisuuden tulla mukaan vapaaehtoistyöhön osallistumalla kulttuuri- ja luontoaiheisten tapahtumien järjestämiseen. Ympäristönä Lapinlahden entinen sairaala puistoineen tarjoaa upeat puitteet erilaisten tapahtumien järjestämiselle.
